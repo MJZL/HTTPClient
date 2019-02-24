@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  BasicHTTP.cpp
+c:\git\basichttpclient\basichttpclient\basichttp.cpp(150): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\git\basichttpclient\basichttpclient\basichttp.cpp(170): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  BasicHTTPClient.cpp
+c:\git\basichttpclient\basichttpclient\monitor.h(25): error C2059: syntax error: ')'
+c:\git\basichttpclient\basichttpclient\monitor.h(26): error C2143: syntax error: missing ';' before '{'
+c:\git\basichttpclient\basichttpclient\monitor.h(26): error C2447: '{': missing function header (old-style formal list?)
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(23): error C2059: syntax error: '.'
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(25): error C2027: use of undefined type 'Monitor'
+  c:\git\basichttpclient\basichttpclient\monitor.h(25): note: see declaration of 'Monitor'
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(26): error C2065: 'filelocation': undeclared identifier
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(26): error C2065: 'message': undeclared identifier
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(28): error C2059: syntax error: '.'
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(30): error C2027: use of undefined type 'Monitor'
+  c:\git\basichttpclient\basichttpclient\monitor.h(25): note: see declaration of 'Monitor'
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(31): error C2065: 'filelocation': undeclared identifier
+c:\git\basichttpclient\basichttpclient\basichttpclient.cpp(31): error C2065: 'message': undeclared identifier
+  Bridge.cpp
+c:\git\basichttpclient\basichttpclient\bridge.cpp(1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
